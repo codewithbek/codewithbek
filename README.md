@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Asadbek</h1>
 <h3 align="center">A creative Flutter developer from Uzbekistan</h3>
 
-- 🌱 I’m currently learning **Flutter, Sql, Rest Api, Hive**
-
-- 📝 I regularly write articles on (https://t.me/asadullohdev](https://t.me/asadullohdev)
+- 🌱 I’m currently learning **Flutter, Dart, Sql, Rest Api, Android and IOS Apps Development**
 
 - 💬 Ask me about **Widgets, packages, CRUD**
 
