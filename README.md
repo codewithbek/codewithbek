@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Asadbek</h1>
 <h3 align="center">A creative Flutter developer from Uzbekistan</h3>
 
+## <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height = 50px>  About me
+
 - 🌱 I’m currently learning **Flutter, Dart, Sql, Rest Api for Android and IOS Apps Development**
 
 - 💬 Ask me about **Widgets, packages, CRUD**
