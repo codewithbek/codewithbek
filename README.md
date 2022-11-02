@@ -11,6 +11,8 @@
 
 - ⚡ Fun fact **I am really fast learn anything**
 
+- You can see my portfolio at [Instagram](http://www.instagram.com/codewithbek)**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/asadbek-sayfuddinov-912989230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asadbek sayfuddinov" height="30" width="40" /></a>
