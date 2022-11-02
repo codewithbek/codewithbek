@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I am really fast learn anything**
 
-- You can see my portfolio at [Instagram](http://www.instagram.com/codewithbek)**
+- You can see my portfolio at [Instagram](http://www.instagram.com/codewithbek)<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
