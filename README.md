@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter, Dart, Sql, Rest Api for Android and IOS Apps Development**
 
-- 💬 Ask me about **Widgets, packages, CRUD**
+- 💬 Ask me about **Widgets, packages and Clean code**
 
 - 📫 How to reach me **codingwithasadbek@gmail.com**
 
