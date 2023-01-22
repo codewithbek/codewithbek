@@ -12,7 +12,7 @@
 - ⚡ Fun fact **I am really fast learn anything**
 
 
-<h3 align="left">Here my social accounts:</h3>
+### 💻 Tech Stack:
 <p align="left">
 <a href="https://www.linkedin.com/in/asadbek-sayfuddinov-912989230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asadbek sayfuddinov" height="30" width="40" /></a>
 <a href="https://instagram.com/codewithbek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codewithbek" height="30" width="40" /></a>
