@@ -3,17 +3,16 @@
 
 ## <img src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height = 50px>  About me
 
-- 🌱 I’m currently learning **Bloc/Cubit**
+- 🌱 I’m currently **OPEN to WORK**
 
-- 💬 Ask me about **Widgets, packages and Clean code**
+- 💬 Ask me about **Dart and Flutter**
 
 - 📫 How to reach me **codingwithasadbek@gmail.com**
 
 - ⚡ Fun fact **I am really fast learn anything**
 
-- 👨‍You can see my portfolio at [Instagram](http://www.instagram.com/codewithbek)<br>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Here my social accounts:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/asadbek-sayfuddinov-912989230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asadbek sayfuddinov" height="30" width="40" /></a>
 <a href="https://instagram.com/codewithbek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codewithbek" height="30" width="40" /></a>
