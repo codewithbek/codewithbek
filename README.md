@@ -25,5 +25,5 @@
 [![Asadbek's Github Stats](https://github-readme-stats.vercel.app/api?username=codingwithbek&count_private=true&theme=default&show_icons=true)](https://github.com/codingwithbek)
  
 
-### Support Me
+  <summary> <h3>Support Me <h3></summary>
 <a href="https://www.buymeacoffee.com/codewithbek"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
