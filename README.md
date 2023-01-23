@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **Dart and Flutter**
 
-- 📫 How to reach me **codingwithasadbek@gmail.com**
-
 - ⚡ Fun fact **I am really fast learn anything**
 
 
