@@ -39,10 +39,6 @@
   <img src="https://activity-graph.herokuapp.com/graph?username=mabrur-h&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
-<hr>
-<h4 align="center">
-  <a href="https://github.com/mabrur-h?tab=repositories" title="Show Repositories">🔎 Show Repositories 🔍</a>
-</h4>
  
 
   <summary> <h3>Support Me <h3></summary>
