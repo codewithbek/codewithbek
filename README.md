@@ -20,8 +20,7 @@
  
   <summary> <h3>Github Stats <h3>⚡</summary>
 
-[![Asadbek's Github Stats](https://github-readme-stats.vercel.app/api?username=onexengineer
-&count_private=true&theme=default&show_icons=true)](https://github.com/onexengineer
+[![Asadbek's Github Stats](https://github-readme-stats.vercel.app/api?username=onexengineer &count_private=true&theme=default&show_icons=true)](https://github.com/onexengineer
 )
  
 
