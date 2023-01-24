@@ -20,7 +20,9 @@
  
   <summary> <h3>Github Stats <h3>⚡</summary>
 
-[![Asadbek's Github Stats](https://github-readme-stats.vercel.app/api?username=codingwithbek&count_private=true&theme=default&show_icons=true)](https://github.com/codingwithbek)
+[![Asadbek's Github Stats](https://github-readme-stats.vercel.app/api?username=onexengineer
+&count_private=true&theme=default&show_icons=true)](https://github.com/onexengineer
+)
  
 
   <summary> <h3>Support Me <h3></summary>
