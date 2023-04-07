@@ -12,7 +12,7 @@
 
 ### 🌐 Socials:
 
-<a href="https://www.linkedin.com/in/asadbek-sayfuddinov-912989230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asadbek sayfuddinov" height="30" width="40" /></a> <a href="https://instagram.com/codewithbek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codewithbek" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/asadbek-sayfuddinov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asadbek sayfuddinov" height="30" width="40" /></a> <a href="https://instagram.com/codewithbek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codewithbek" height="30" width="40" /></a>
 <a href="https://dribbble.com/codewithbek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="asadbek sayfuddinov" height="30" width="40" /></a> <a href="https://www.codewars.com/users/onexengineer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codewars.svg" alt="codewars" height="30" width="40" /></a>
 
 ### 💻 Tech Stack:
