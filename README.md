@@ -15,14 +15,14 @@
 
 ## 📱 Featured Projects
 
-| Project | Description | Tech Stack | Links |
-|---------|-------------|------------|-------|
-| **Road24** | Fuel payment, driver tools, and vehicle services app. | Flutter, BLoC, Firebase, REST API | [App Store](https://apps.apple.com/uz/app/road24-jarimalar-tekshirish/id1543010525) \| [Google Play](https://play.google.com/store/apps/details?id=uz.kashapp.road24jarimalar&hl=en_US&gl=US) |
-| **Q.Watt** | EV powerbank & bike sharing platform with real-time rentals and charging. | Flutter, Firebase, WebSockets | [App Store](https://apps.apple.com/uz/app/q-watt-powerbank-bike-sharing/id6444178516) \| [Google Play](https://play.google.com/store/apps/details?id=com.q.watt&hl=en) |
-| **Uzdigital+ TV App** | Streaming platform for digital TV content. | Flutter, GetX, REST API | [App Store](https://apps.apple.com/uz/app/uzd/id6445950833) \| [Google Play](https://play.google.com/store/apps/details?id=uz.udevs.uzdigital_mobile&hl=en_US) |
-| **Delever Courier App** | Real-time courier tracking and delivery management. | Flutter, WebSockets, BLoC | [App Store](https://apps.apple.com/us/app/delever-courier/id1610711287) \| [Google Play](https://play.google.com/store/apps/details?id=uz.delever.courier&hl=en) |
-| **Haady** | Learning app with courses and tutorials. | Flutter, Firebase, Video player | [App Store](https://apps.apple.com/us/app/haady/id6503292562) \| [Google Play](https://play.google.com/store/apps/details?id=com.haad.learn&hl=en) |
-| **IshTop** | Job search app connecting users with employers in Uzbekistan. | Flutter, REST API, Firebase | [Google Play](https://play.google.com/store/apps/details?id=uz.ishtop.app&hl=en) |
+| Project        | What it does                                                                 | Tech Stack                   | Links                                                                                               |
+|----------------|------------------------------------------------------------------------------|------------------------------|---------------------------------------------------------------------------------------------------|
+| 🚗 **Road24**    | Fuel payments, vehicle service tracking, and fines management for drivers. Simplifies car ownership. | Flutter, BLoC, Firebase, REST API | [iOS](https://apps.apple.com/uz/app/road24-jarimalar-tekshirish/id1543010525) \| [Android](https://play.google.com/store/apps/details?id=uz.kashapp.road24jarimalar&hl=en_US&gl=US) |
+| ⚡ **Q.Watt**    | EV powerbank and bike sharing with real-time rental & charging features. Supports sustainable transport. | Flutter, Firebase, WebSockets | [iOS](https://apps.apple.com/uz/app/q-watt-powerbank-bike-sharing/id6444178516) \| [Android](https://play.google.com/store/apps/details?id=com.q.watt&hl=en) |
+| 📺 **Uzdigital+ TV App** | Streaming app delivering Uzbek TV content with smooth UX and multi-language support. | Flutter, GetX, REST API      | [iOS](https://apps.apple.com/uz/app/uzd/id6445950833) \| [Android](https://play.google.com/store/apps/details?id=uz.udevs.uzdigital_mobile&hl=en_US) |
+| 🚚 **Delever Courier App** | Real-time courier tracking & delivery management platform optimizing last-mile delivery. | Flutter, WebSockets, BLoC    | [iOS](https://apps.apple.com/us/app/delever-courier/id1610711287) \| [Android](https://play.google.com/store/apps/details?id=uz.delever.courier&hl=en) |
+| 🎓 **Haady**     | Interactive learning app with courses, tutorials, and video lessons to boost skills. | Flutter, Firebase, Video player | [iOS](https://apps.apple.com/us/app/haady/id6503292562) \| [Android](https://play.google.com/store/apps/details?id=com.haad.learn&hl=en) |
+| 💼 **IshTop**    | Local job search platform connecting job seekers and employers in Uzbekistan. | Flutter, REST API, Firebase  | [Android](https://play.google.com/store/apps/details?id=uz.ishtop.app&hl=en)                      |
 
 ---
 
