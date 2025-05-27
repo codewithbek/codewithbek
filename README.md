@@ -3,12 +3,11 @@
 
 ---
 
-## 🚀 About Me
-- 🎯 Passionate Flutter Developer with experience in building high-performance mobile applications.  
-- 🌱 Currently **working on the Road24 app** and **Q.Watt bike-sharing app**.  
-- 🔥 Specialized in **UI/UX, performance optimization, and state management**.  
-- 💬 Ask me about **Dart and Flutter**.  
-- 🎯 **Goals for 2025:** Become a Senior Flutter Developer, contribute to open source, and build a profitable indie app.  
+## 🚀 About Me- 🎯 Passionate **Flutter Developer** with nearly 2 years of experience building high-performance mobile applications.  
+- 🌱 Currently working on **Road24** and other exciting projects like **Q.Watt** and **Uzdigital+ TV App**.  
+- 🔥 Specialized in **UI/UX, performance optimization, and state management** (GetX, BLoC).  
+- 💬 Ask me about **Dart, Flutter**, and mobile app architecture.  
+- 🎯 Goals for 2025: Become a Senior Flutter Developer, contribute to open source, and build a profitable indie app.  
 
 ---
 
