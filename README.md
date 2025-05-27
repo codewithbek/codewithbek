@@ -11,17 +11,16 @@
 - 💬 Ask me about **Dart, Flutter**, and mobile app architecture.  
 - 🎯 Goals for 2025: Become a Senior Flutter Developer, contribute to open source, and build a profitable indie app.  
 
----
-## 📱 Featured Projects
+---## 📱 Featured Projects
 
 | Project | What it does | Tech Stack | Role & Duration | Links |
 |--------|---------------|------------|------------------|-------|
 | 🚗 **Road24** | Fuel payments, vehicle service tracking, and fines management for drivers. Simplifies car ownership. | Flutter, BLoC, Firebase, REST API | Mid Flutter Dev (Oct 2024 – Present) | [iOS](https://apps.apple.com/uz/app/road24-jarimalar-tekshirish/id1543010525) \| [Android](https://play.google.com/store/apps/details?id=uz.kashapp.road24jarimalar&hl=en_US&gl=US) |
 | ⚡ **Q.Watt** | EV powerbank and bike sharing with real-time rental & charging features. Supports sustainable transport. | Flutter, Firebase, WebSockets | Mobile Developer (May – Sep 2024) | [iOS](https://apps.apple.com/uz/app/q-watt-powerbank-bike-sharing/id6444178516) \| [Android](https://play.google.com/store/apps/details?id=com.q.watt&hl=en) |
-| 📺 **Uzdigital+ TV App** | Streaming app delivering Uzbek TV content with smooth UX and multi-language support. | Flutter, GetX, REST API | UI Developer (Sep – Oct 2024) | [iOS](https://apps.apple.com/uz/app/uzd/id6445950833) \| [Android](https://play.google.com/store/apps/details?id=uz.udevs.uzdigital_mobile&hl=en_US) |
-| 🚚 **Delever Courier App** | Real-time courier tracking & delivery management platform optimizing last-mile delivery. | Flutter, WebSockets, BLoC | Intern → Junior Dev (Aug – Nov 2023) | [iOS](https://apps.apple.com/us/app/delever-courier/id1610711287) \| [Android](https://play.google.com/store/apps/details?id=uz.delever.courier&hl=en) |
+| 📺 **Uzdigital+ TV App** | Streaming app delivering Uzbek TV content with smooth UX and multi-language support. | Flutter, GetX, REST API | Mobile Developer (Jul – Oct 2024) | [iOS](https://apps.apple.com/uz/app/uzd/id6445950833) \| [Android](https://play.google.com/store/apps/details?id=uz.udevs.uzdigital_mobile&hl=en_US) |
+| 🚚 **Delever Courier App** | Real-time courier tracking & delivery management platform optimizing last-mile delivery. | Flutter, WebSockets, BLoC | Intern → Junior Dev (May – Aug 2023) | [iOS](https://apps.apple.com/us/app/delever-courier/id1610711287) \| [Android](https://play.google.com/store/apps/details?id=uz.delever.courier&hl=en) |
 | 🎓 **Haady** | Interactive learning app with courses, tutorials, and video lessons to boost skills. | Flutter, Firebase, Video Player | Intern (Mar – Apr 2023) | [iOS](https://apps.apple.com/us/app/haady/id6503292562) \| [Android](https://play.google.com/store/apps/details?id=com.haad.learn&hl=en) |
-| 💼 **IshTop** | Local job search platform connecting job seekers and employers in Uzbekistan. | Flutter, REST API, Firebase | Flutter Dev (Side Project, 2022) | [Android](https://play.google.com/store/apps/details?id=uz.ishtop.app&hl=en) |
+| 💼 **IshTop** | Local job search platform connecting job seekers and employers in Uzbekistan. | Flutter, REST API, Firebase | Flutter Dev (Side Project, 2023) | [Android](https://play.google.com/store/apps/details?id=uz.ishtop.app&hl=en) |
 
 
 ---
