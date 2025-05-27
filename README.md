@@ -3,7 +3,9 @@
 
 ---
 
-## 🚀 About Me- 🎯 Passionate **Flutter Developer** with nearly 2 years of experience building high-performance mobile applications.  
+
+## 🚀 About Me
+- 🎯 Passionate **Flutter Developer** with nearly 2 years of experience building high-performance mobile applications.  
 - 🌱 Currently working on **Road24** and other exciting projects like **Q.Watt** and **Uzdigital+ TV App**.  
 - 🔥 Specialized in **UI/UX, performance optimization, and state management** (GetX, BLoC).  
 - 💬 Ask me about **Dart, Flutter**, and mobile app architecture.  
