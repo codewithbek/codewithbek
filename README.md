@@ -45,7 +45,7 @@
 - CI/CD: GitHub Actions, Fastlane
 - Figma for UI/UX collaboration
 - Postman for API testing
-- 
+
 
 ---
 
